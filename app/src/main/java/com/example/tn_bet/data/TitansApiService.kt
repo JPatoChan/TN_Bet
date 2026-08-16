@@ -10,6 +10,9 @@ import retrofit2.http.Path
 interface TitansApiService {
     @GET("apis/site/v2/sports/football/nfl/teams/{teamId}")
     suspend fun getTeamInfo(@Path("teamId") teamId: String = "10"): TeamResponse
+
+    @GET("apis/site/v2/sports/football/nfl/teams/{teamId}/schedule")
+    suspend fun getTeamSchedule(@Path("teamId") teamId: String = "10"): ScheduleResponse
 }
 
 object RetrofitClient {

@@ -36,3 +36,40 @@ data class RecordSummary(
 data class RecordItem(
     val summary: String? = null
 )
+
+@Serializable
+data class ScheduleResponse(
+    val events: List<TitansEvent> = emptyList()
+)
+
+@Serializable
+data class TitansEvent(
+    val id: String,
+    val date: String,
+    val name: String,
+    val shortName: String? = null,
+    val competitions: List<Competition> = emptyList()
+)
+
+@Serializable
+data class Competition(
+    val id: String,
+    val competitors: List<Competitor> = emptyList()
+)
+
+@Serializable
+data class Competitor(
+    val id: String,
+    val team: TeamSummary
+)
+
+@Serializable
+data class TeamSummary(
+    val id: String,
+    val location: String? = null,
+    val name: String? = null,
+    val nickname: String? = null,
+    val displayName: String,
+    val abbreviation: String? = null,
+    val logos: List<Logo> = emptyList()
+)
