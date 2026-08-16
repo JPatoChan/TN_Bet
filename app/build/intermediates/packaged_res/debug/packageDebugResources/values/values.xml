@@ -6,6 +6,7 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+    <color name="tn_red">#C8102E</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">TN_Bet</string>
     <style name="Theme.App.Starting" parent="Theme.SplashScreen">

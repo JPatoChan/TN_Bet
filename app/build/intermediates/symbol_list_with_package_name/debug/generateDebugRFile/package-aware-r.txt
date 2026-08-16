@@ -5,6 +5,7 @@ color purple_500
 color purple_700
 color teal_200
 color teal_700
+color tn_red
 color white
 drawable ic_account_box
 drawable ic_calendar
@@ -14,6 +15,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_splash_sports
 drawable ic_tn_flag
+layout widget_initial_layout
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
@@ -21,3 +23,4 @@ style Theme_App_Starting
 style Theme_TN_Bet
 xml backup_rules
 xml data_extraction_rules
+xml titans_widget_info

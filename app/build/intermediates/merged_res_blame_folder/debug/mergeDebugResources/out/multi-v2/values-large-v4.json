@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.tn_bet.app-mergeDebugResources-48:/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.example.tn_bet.app-mergeDebugResources-57:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pnanc\\.gradle\\caches\\9.7.0\\transforms\\57430e6048b99e425e23be7bf5e42bb7\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\pnanc\\.gradle\\caches\\9.7.0\\transforms\\bb329ea0a86b5581d7fa0da3cf3a503f\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pnanc\\.gradle\\caches\\9.7.0\\transforms\\7f2c0dc970d0a612d2cef368647f8469\\transformed\\material-1.12.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\pnanc\\.gradle\\caches\\9.7.0\\transforms\\38362d38ecde33999d12e7212596f76a\\transformed\\material-1.12.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.tn_bet.app-mergeDebugResources-48:/values-night-v33/values-night-v33.xml",
+            "outputFile": "com.example.tn_bet.app-mergeDebugResources-57:/values-night-v33/values-night-v33.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pnanc\\.gradle\\caches\\9.7.0\\transforms\\e1f380a41e0e33cdfea92879306b3539\\transformed\\core-splashscreen-1.2.0\\res\\values-night-v33\\values-night-v33.xml",
+                    "source": "C:\\Users\\pnanc\\.gradle\\caches\\9.7.0\\transforms\\0db8103236e939e0897ebd6790aa5c14\\transformed\\core-splashscreen-1.2.0\\res\\values-night-v33\\values-night-v33.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

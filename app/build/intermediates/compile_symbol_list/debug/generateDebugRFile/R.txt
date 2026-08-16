@@ -4,6 +4,7 @@ int color purple_500 0x0
 int color purple_700 0x0
 int color teal_200 0x0
 int color teal_700 0x0
+int color tn_red 0x0
 int color white 0x0
 int drawable ic_account_box 0x0
 int drawable ic_calendar 0x0
@@ -13,6 +14,7 @@ int drawable ic_launcher_background 0x0
 int drawable ic_launcher_foreground 0x0
 int drawable ic_splash_sports 0x0
 int drawable ic_tn_flag 0x0
+int layout widget_initial_layout 0x0
 int mipmap ic_launcher 0x0
 int mipmap ic_launcher_round 0x0
 int string app_name 0x0
@@ -20,3 +22,4 @@ int style Theme_App_Starting 0x0
 int style Theme_TN_Bet 0x0
 int xml backup_rules 0x0
 int xml data_extraction_rules 0x0
+int xml titans_widget_info 0x0

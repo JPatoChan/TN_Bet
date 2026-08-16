@@ -1,90 +1,102 @@
 [
     {
-        "merged": "com.example.tn_bet.app-debug-50:/drawable_ic_tn_flag.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/drawable/ic_tn_flag.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\drawable\\ic_favorite.xml"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/drawable_ic_account_box.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/drawable/ic_account_box.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/drawable_ic_favorite.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/drawable/ic_favorite.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\drawable_ic_splash_sports.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\drawable\\ic_splash_sports.xml"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/drawable_ic_splash_sports.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/drawable/ic_splash_sports.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.tn_bet.app-debug-59:/layout_widget_initial_layout.xml.flat",
+        "source": "com.example.tn_bet.app-main-61:/layout/widget_initial_layout.xml"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\xml_titans_widget_info.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\xml\\titans_widget_info.xml"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/xml_backup_rules.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/drawable_ic_calendar.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/drawable/ic_calendar.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\drawable_ic_tn_flag.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\drawable\\ic_tn_flag.xml"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.tn_bet.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.tn_bet.app-debug-59:/xml_titans_widget_info.xml.flat",
+        "source": "com.example.tn_bet.app-main-61:/xml/titans_widget_info.xml"
     },
     {
-        "merged": "com.example.tn_bet.app-debug-50:/drawable_ic_home.xml.flat",
-        "source": "com.example.tn_bet.app-main-52:/drawable/ic_home.xml"
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\drawable_ic_account_box.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\drawable\\ic_account_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-debug-59:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\pnanc\\.gradle\\daemon\\9.7.0\\com.example.tn_bet.app-main-61:\\drawable\\ic_calendar.xml"
     }
 ]

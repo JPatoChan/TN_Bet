@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.tn_bet.app-mergeDebugResources-48:/values-v18/values-v18.xml",
+            "outputFile": "com.example.tn_bet.app-mergeDebugResources-57:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pnanc\\.gradle\\caches\\9.7.0\\transforms\\57430e6048b99e425e23be7bf5e42bb7\\transformed\\appcompat-1.7.0\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\pnanc\\.gradle\\caches\\9.7.0\\transforms\\bb329ea0a86b5581d7fa0da3cf3a503f\\transformed\\appcompat-1.7.0\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
