@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Blue circle center piece -->
+    <path
+        android:fillColor="#002D62"
+        android:pathData="M54,54m-25,0a25,25 0,1 1,50 0a25,25 0,1 1,-50 0" />
+    <!-- White border -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M54,54m-25,0a25,25 0,1 1,50 0a25,25 0,1 1,-50 0" />
+
+    <!-- Tristar (three stars) - Improved alignment -->
+    <!-- Top-ish Star -->
+    <group android:translateX="50" android:translateY="42" android:rotation="-15">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,-6 L1.5,-2 L5.5,-2 L2.5,1 L3.5,5 L0,2.5 L-3.5,5 L-2.5,1 L-5.5,-2 L-1.5,-2 Z" />
+    </group>
+
+    <!-- Bottom Left Star -->
+    <group android:translateX="44" android:translateY="62" android:rotation="15">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,-6 L1.5,-2 L5.5,-2 L2.5,1 L3.5,5 L0,2.5 L-3.5,5 L-2.5,1 L-5.5,-2 L-1.5,-2 Z" />
+    </group>
+
+    <!-- Bottom Right Star -->
+    <group android:translateX="66" android:translateY="58" android:rotation="45">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,-6 L1.5,-2 L5.5,-2 L2.5,1 L3.5,5 L0,2.5 L-3.5,5 L-2.5,1 L-5.5,-2 L-1.5,-2 Z" />
+    </group>
+</vector>

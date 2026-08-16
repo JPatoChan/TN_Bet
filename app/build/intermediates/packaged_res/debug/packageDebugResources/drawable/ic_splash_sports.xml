@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Football shape -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M100,50c-40,0 -70,20 -70,50s30,50 70,50s70,-20 70,-50s-30,-50 -70,-50z" />
+    <!-- Football laces -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M80,100h40M90,90v20M100,90v20M110,90v20" />
+    <!-- Tristar overlay -->
+    <path
+        android:fillColor="#002D62"
+        android:pathData="M150,130m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M150,130m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0" />
+
+    <!-- Improved Tristar alignment for splash -->
+    <group android:translateX="146" android:translateY="121" android:rotation="-15">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,-5 L1.2,-1.5 L4.5,-1.5 L2,0.8 L2.8,4 L0,2 L-2.8,4 L-2,0.8 L-4.5,-1.5 L-1.2,-1.5 Z" />
+    </group>
+    <group android:translateX="142" android:translateY="136" android:rotation="15">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,-5 L1.2,-1.5 L4.5,-1.5 L2,0.8 L2.8,4 L0,2 L-2.8,4 L-2,0.8 L-4.5,-1.5 L-1.2,-1.5 Z" />
+    </group>
+    <group android:translateX="159" android:translateY="133" android:rotation="45">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,-5 L1.2,-1.5 L4.5,-1.5 L2,0.8 L2.8,4 L0,2 L-2.8,4 L-2,0.8 L-4.5,-1.5 L-1.2,-1.5 Z" />
+    </group>
+</vector>
