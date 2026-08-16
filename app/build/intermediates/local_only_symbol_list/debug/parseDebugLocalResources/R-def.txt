@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_account_box
+drawable ic_favorite
+drawable ic_home
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_splash_sports
+drawable ic_tn_flag
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.App.Starting
+style Theme.TN_Bet
+xml backup_rules
+xml data_extraction_rules

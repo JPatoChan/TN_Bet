@@ -1,0 +1,8 @@
+com.example.tn_bet.app-pngs-0 C:\Users\pnanc\AndroidStudioProjects\TN_Bet\app\build\generated\res\pngs\debug
+com.example.tn_bet.app-updated_navigation_xml-1 C:\Users\pnanc\AndroidStudioProjects\TN_Bet\app\build\generated\updated_navigation_xml\debug
+com.example.tn_bet.app-packageDebugResources-2 C:\Users\pnanc\AndroidStudioProjects\TN_Bet\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.tn_bet.app-packageDebugResources-3 C:\Users\pnanc\AndroidStudioProjects\TN_Bet\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.tn_bet.app-debug-4 C:\Users\pnanc\AndroidStudioProjects\TN_Bet\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.tn_bet.app-debug-5 C:\Users\pnanc\AndroidStudioProjects\TN_Bet\app\src\debug\res
+com.example.tn_bet.app-main-6 C:\Users\pnanc\AndroidStudioProjects\TN_Bet\app\src\main\res
+gradleHome-0 C:\Users\pnanc\.gradle
