@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Icon
@@ -20,6 +21,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.tooling.preview.PreviewScreenSizes
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
+import com.example.tn_bet.ui.TitansScreen
 import com.example.tn_bet.ui.theme.TN_BetTheme
 
 class MainActivity : ComponentActivity() {
@@ -29,6 +31,7 @@ class MainActivity : ComponentActivity() {
         val icon: Int,
     ) {
         HOME("Home", R.drawable.ic_home),
+        TITANS("Titans", R.drawable.ic_favorite), // Using heart for now, or I can create a new icon
         FAVORITES("Favorites", R.drawable.ic_favorite),
         PROFILE("Profile", R.drawable.ic_account_box),
     }
@@ -79,10 +82,14 @@ fun TN_BetApp() {
         }
     ) {
         Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-            Greeting(
-                name = "Tennessee",
-                modifier = Modifier.padding(innerPadding)
-            )
+            Box(modifier = Modifier.padding(innerPadding)) {
+                when (currentDestination) {
+                    MainActivity.AppDestinations.TITANS -> TitansScreen()
+                    else -> Greeting(
+                        name = "Tennessee",
+                    )
+                }
+            }
         }
     }
 }
